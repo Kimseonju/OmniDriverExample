@@ -1,0 +1,47 @@
+﻿     C:\Users\NDL\Desktop\Test\9_02\ConsoleApplication1\Debug\ConsoleApplication1.lib 라이브러리 및 C:\Users\NDL\Desktop\Test\9_02\ConsoleApplication1\Debug\ConsoleApplication1.exp 개체를 생성하고 있습니다.
+ConsoleApplication1.obj : error LNK2019: _JString_Create 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _JString_Destroy 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _JString_getASCII 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: "public: struct JNIEnv_ * __thiscall JNIBridge::getJavaEnv(void)" (?getJavaEnv@JNIBridge@@QAEPAUJNIEnv_@@XZ) 외부 기호(참조 위치: "public: struct JNIEnv_ * __thiscall BaseJavaClass::getEnv(void)" (?getEnv@BaseJavaClass@@QAEPAUJNIEnv_@@XZ) 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: "public: virtual __thiscall EnvWrapper::~EnvWrapper(void)" (??1EnvWrapper@@UAE@XZ) 외부 기호(참조 위치: "public: virtual void * __thiscall EnvWrapper::`vector deleting destructor'(unsigned int)" (??_EEnvWrapper@@UAEPAXI@Z) 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: "public: __thiscall AbstractArray::AbstractArray(class AbstractArray const &)" (??0AbstractArray@@QAE@ABV0@@Z) 외부 기호(참조 위치: "public: __thiscall ArrayOfArrays::ArrayOfArrays(class ArrayOfArrays &&)" (??0ArrayOfArrays@@QAE@$$QAV0@@Z) 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: "public: class AbstractArray & __thiscall AbstractArray::operator=(class AbstractArray const &)" (??4AbstractArray@@QAEAAV0@ABV0@@Z) 외부 기호(참조 위치: "public: class ArrayOfArrays & __thiscall ArrayOfArrays::operator=(class ArrayOfArrays &&)" (??4ArrayOfArrays@@QAEAAV0@$$QAV0@@Z) 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _DoubleArray_Create 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _DoubleArray_getDoubleValues 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _DoubleArray_getLength 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _DoubleArray_Destroy 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: "public: virtual __thiscall BaseJavaClass::~BaseJavaClass(void)" (??1BaseJavaClass@@UAE@XZ) 외부 기호(참조 위치: "public: virtual void * __thiscall BaseJavaClass::`vector deleting destructor'(unsigned int)" (??_EBaseJavaClass@@UAEPAXI@Z) 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _ContinuousStrobeImpl_Create 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _ContinuousStrobeImpl_getContinuousStrobeDelayMinimum 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _ContinuousStrobeImpl_getContinuousStrobeDelayMaximum 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _ContinuousStrobeImpl_Destroy 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _GPIO_Create 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _GPIO_Destroy 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_Create 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getApiVersion 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getBuildNumber 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_openAllSpectrometers 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getName 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getMinimumIntegrationTime 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getFirmwareVersion 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getSerialNumber 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_setIntegrationTime 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_setScansToAverage 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_setBoxcarWidth 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_setCorrectForElectricalDark 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getWavelengths 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getWavelengthIntercept 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getWavelengthFirst 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getWavelengthSecond 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getWavelengthThird 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getSpectrum 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_closeAllSpectrometers 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getFeatureControllerGPIO 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_isFeatureSupportedGPIO 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_getFeatureControllerContinuousStrobe 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_isFeatureSupportedContinuousStrobe 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_Destroy 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+ConsoleApplication1.obj : error LNK2019: _Wrapper_Create_stdcall@0 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OmniDriver64.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'X86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\common64.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'X86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\NDL\Desktop\Test\9_02\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 43개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(18): fatal error C1083: 포함 파일을 열 수 없습니다. 'ArrayTypes.h': No such file or directory
